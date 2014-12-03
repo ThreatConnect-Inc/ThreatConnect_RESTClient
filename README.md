@@ -20,7 +20,7 @@ exception of the authentication process:
     recognized CA, under the "SSL" tab you may need to check "trust self-
     signed certificate."
 5.  In the "URL" box at the top, enter the API location to test the Owners
-    service (for public cloud, this is https://api.threatconnect.com/v1/owners)
+    service (for public cloud, this is https://api.threatconnect.com/v2/owners)
 
 For further information regarding the ThreatConnect API service and its usage, please 
 consult the ThreatConnect API Documentation.
